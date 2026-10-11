@@ -1,6 +1,4 @@
-# Desenvolvimento-Front_End
-Esse repositório foi feito para administrar, organizar e aprender sobre o front-end, com o professor Vinicius.
-# Aulas de Sábado — Desenvolvimento Front-End para Web
+# Desenvolvimento Front-End para Web
 
 Repositório com os exercícios desenvolvidos durante as aulas de sábado do curso de Desenvolvimento Front-End para Web. Cada pasta representa uma aula e mostra a evolução do aprendizado: do primeiro "Olá Mundo" em HTML até uma calculadora funcional com JavaScript.
 
